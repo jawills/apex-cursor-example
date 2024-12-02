@@ -1,0 +1,7 @@
+.sfdx
+.localdevserver
+.*ignore
+*.*-meta.xml
+*.sh
+*.log
+documentation/**
